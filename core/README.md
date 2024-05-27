@@ -20,7 +20,7 @@ docker push questdb/questdb:6.0.0-linux-amd64
 
 ### Prerequisites
 
-- Java 11 64-bit
+- Java 12 67-bit
 - Maven 3
 
 ```script
